@@ -1,7 +1,16 @@
-# Análise de Fabricantes de Veículos Elétricos
+Análise de Fabricantes
 
-Este projeto realiza uma análise de dados de veículos elétricos, incluindo a distribuição de tipos de veículos elétricos, anos de fabricação, fabricantes mais populares e distribuição geográfica.
+# 📌 Sobre o Projeto
+Este projeto tem como objetivo realizar uma análise exploratória dos dados de fabricantes, identificando padrões, tendências e insights relevantes. A análise foi feita utilizando Python e bibliotecas de análise de dados.
 
-## Descrição
+# 📊 Tecnologias Utilizadas:
 
-O objetivo deste projeto é analisar os dados de veículos elétricos e gerar insights visuais utilizando Python, pandas e seaborn. O conjunto de dados utilizado contém informações sobre o registro de veículos elétricos, incluindo o ano de fabricação, fabricante, modelo, tipo de veículo elétrico e outros detalhes.
+Python,
+Pandas,
+Matplotlib / Seaborn e
+Jupyter Notebook
+
+# 🔗 Contato
+www.linkedin.com/in/lucas-marques-leme
+
+lucasml2990@gmail.com
