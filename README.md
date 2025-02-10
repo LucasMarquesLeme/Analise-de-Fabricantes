@@ -10,7 +10,6 @@ Pandas,
 Matplotlib / Seaborn e
 Jupyter Notebook
 
-# 🔗 Contato
-www.linkedin.com/in/lucas-marques-leme
-
-lucasml2990@gmail.com
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-marques-leme)
+- Email: lucasml2990@gmail.com
